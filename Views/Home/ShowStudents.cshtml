@@ -1,0 +1,34 @@
+﻿@model List<Studnt_app.Models.Student>
+@{
+    ViewBag.Title = "ShowStudents";
+}
+    <table class="table ">
+        <thead class="thead-light">
+            <tr>
+               
+                <th scope="col">Name</th>
+                <th scope="col">Mail</th>
+                <th scope="col">Address</th>
+                <th scope="col">Age</th>
+                <th scope="col">phone</th>
+                <th scope="col">Gender</th>
+                <th scope="col">City</th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+            @foreach(var x in Model)
+            {
+            <tr>
+                <td>@x.Name</td>
+                <td>@x.Mail</td>
+                <td>@x.Address</td>
+                <td>@x.Age</td>
+                <td>@x.Phone</td>
+                <td>@x.Gender</td>
+                <td>@x.City</td>
+            </tr>
+            }
+            
+        </tbody>
+    </table>
+

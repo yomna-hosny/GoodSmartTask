@@ -1,0 +1,40 @@
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\json.json
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.exe
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.deps.json
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.runtimeconfig.json
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.runtimeconfig.dev.json
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.dll
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.pdb
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.Views.dll
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Studnt app.Views.pdb
+D:\Projects\Studnt app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.csprojAssemblyReference.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.AssemblyInfoInputs.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.AssemblyInfo.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.csproj.CoreCompileInputs.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.RazorAssemblyInfo.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.RazorAssemblyInfo.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.TagHelpers.input.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.TagHelpers.output.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.RazorCoreGenerate.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddStudent.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowStudents.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.RazorTargetAssemblyInfo.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.RazorTargetAssemblyInfo.cs
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.Views.pdb
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.csproj.CopyComplete
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\staticwebassets\Studnt app.StaticWebAssets.Manifest.cache
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\staticwebassets\Studnt app.StaticWebAssets.xml
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.dll
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.pdb
+D:\Projects\Studnt app\obj\Debug\netcoreapp3.1\Studnt app.genruntimeconfig.cache
